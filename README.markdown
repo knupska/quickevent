@@ -2,7 +2,7 @@ QuickEvent
 ==============
 
 QuickEvent allows you to quickly view, add & remove events from your pages in Symphony.  
-Do you want a event on 95 out of 100 pages?.. no problem!
+Do you want an event on 95 out of 100 pages?.. no problem!
 
 - Version: 1.0
 - Author: [Nathan Martin](mailto:nathan@knupska.com)
@@ -15,7 +15,7 @@ Do you want a event on 95 out of 100 pages?.. no problem!
    (If you have retrieved the extension via the download button in github you will have to  
    rename the folder to 'quickevent' as it will be called 'knupska-quickevent-...')  
 
-2. Enable it as usual on the 'Extensions' page (Select 'QuickEvent' and choose 'Enable' from the 'With Selected' dropdown menu, then click Apply).
+2. Enable it as usual on the 'Extensions' page (Select 'QuickEvent' and choose 'Enable' from the 'With Selected' dropdown menu, then click 'Apply').
 
 3. The QuickEvent page can now be found under 'Blueprints'
 
