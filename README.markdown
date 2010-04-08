@@ -4,7 +4,7 @@ QuickEvent
 QuickEvent allows you to quickly view, add & remove events from your pages in Symphony.  
 Do you want an event on 95 out of 100 pages?.. no problem!
 
-- Version: 1.1
+- Version: 1.2
 - Author: [Nathan Martin](mailto:nathan@knupska.com)
 - Build Date: 2010-04-05
 - Requirements: Symphony 2.0.6 or above
